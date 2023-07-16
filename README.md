@@ -1,2 +1,4 @@
 # peeps
-first repository on github
+I like shoes
+Big foodie
+always being lazy on the couch
